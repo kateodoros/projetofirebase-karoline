@@ -1,0 +1,42 @@
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  border-radius: 3px;
+  border-color: #FFF;
+}
+
+td{
+  padding: 4px;
+}
+
+th{
+  padding: 5px;
+}
+
+button{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+input{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  border-radius: 3px;
+  border-color: #333;
+}
+
+div{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  padding: 2px;
+}

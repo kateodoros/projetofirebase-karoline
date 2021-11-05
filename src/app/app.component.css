@@ -1,0 +1,38 @@
+p {
+  font-family: Lato;
+}
+
+fieldset{
+  border-radius: 5px;
+  border-color: rgb(221, 221, 221);
+  width: 355px;
+}
+
+legend{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color:rgb(33, 32, 34);
+}
+
+button{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: rgb(26, 25, 25);
+  border-color: rgb(161, 159, 159);
+  padding: 4px;
+  margin: 2px;
+}
+
+input{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  border-radius: 3px;
+  border-color: #333;
+}
+
+div{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  padding: 2px;
+}
